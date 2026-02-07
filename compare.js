@@ -1,3 +1,6 @@
+// string is immutable...eta k change kora jay na
+// array is mutable
+
 const subject = 'Chemistry';
 const book = 'ChemIsTry';
 
